@@ -14,7 +14,7 @@ int main() {
         cin >> nums[i];
     }
 
-    // Total sum
+
     int totalSum = 0;
 
     for(int i = 0; i < n; i++) {
@@ -39,4 +39,4 @@ int main() {
     cout << -1;
 
     return 0;
-}
+
