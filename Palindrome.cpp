@@ -17,6 +17,6 @@ int main () {
 	}
 	
 	else {
-		cout<<"not a palimdrome"
+		cout<<"not a palimdrome";
 	}
 }
